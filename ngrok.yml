@@ -1,0 +1,12 @@
+authtoken: 2cwkxEsMG8GHdSvfqmRNgbUp4Xc_72hw3VbQLtZk1jwZdDKzj
+
+tunnels:
+  backend:
+    addr: 4000
+    proto: http
+   subdomain: tunisysFront
+
+  frontend:
+    addr: 3000
+    proto: http
+    subdomain: tunisysBack
